@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Adarsh2701](https://github.com/Adarsh2701)
 
-- 💬 Ask me about **Python(Pandas, NumPy, Matplotlib, Seaborn), SQL, Power BI, Tableau, Excel**
+- 💬 Ask me about **Python(Pandas, NumPy, Matplotlib, Seaborn), SQL, Power BI, Tableau, Excel.**
 
 - 📫 How to reach me **singhadarsh2701@gmail.com**
 
