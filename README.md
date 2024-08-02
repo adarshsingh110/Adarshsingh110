@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/adarshgohan" target="blank"><img src="https://img.shields.io/twitter/follow/adarshgohan?logo=twitter&style=for-the-badge" alt="adarshgohan" /></a> </p>
 
-- 🔭 I’m currently working on **Aloyt The Technology Company**
+- 🔭 I’m currently working for **Aloyt The Technology Company**
 
 - 🌱 I’m currently learning **Data Analysis and Machine Learning**
 
