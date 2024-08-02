@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Adarsh2701](https://github.com/Adarsh2701)
+- 👨‍💻 All of my projects are available at [https://adarshsingh110.github.io/](https://adarshsingh110.github.io/)
 
 - 💬 Ask me about **Python(Pandas, NumPy, Matplotlib, Seaborn), SQL, Power BI, Tableau, Excel.**
 
