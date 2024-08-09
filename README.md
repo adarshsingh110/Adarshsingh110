@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **singhadarsh2701@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15Iw19L4RZF6y-GI8E_7TxY3gUhpcvWca/view](https://drive.google.com/file/d/15Iw19L4RZF6y-GI8E_7TxY3gUhpcvWca/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/15Iw19L4RZF6y-GI8E_7TxY3gUhpcvWca/view](https://drive.google.com/file/d/1HgFoDf1cNVJw3X_V0RZ34SWQTSYYDmSQ/view?usp=drive_link)
 
 - ⚡ Fun fact **I am Funny**
 
